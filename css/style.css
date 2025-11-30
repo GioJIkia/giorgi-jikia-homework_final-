@@ -162,6 +162,9 @@
     transform: rotate(360deg);
   }
 }
+.page-1-section-1-animation-container-border:hover {
+  animation-play-state: paused;
+}
 /* -------------------page-1-section-2------------------ */
 .page-1-section-2 {
   padding: 96px 94px;
