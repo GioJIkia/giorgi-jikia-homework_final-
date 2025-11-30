@@ -47,12 +47,12 @@
   /* ------------------------page-3-address-and-map-section----------------- */
   .page-3-address-and-map-container {
     width: 100%;
-    row-gap:24px
+    row-gap: 24px;
   }
-  .page-3-address{
+  .page-3-address {
     column-gap: 42px;
   }
-  iframe{
+  iframe {
     height: 200px;
   }
   /* -----------------------footer --------------------------*/
