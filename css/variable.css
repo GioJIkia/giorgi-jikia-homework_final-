@@ -1,7 +1,4 @@
 /* main-style */
-body {
-  font-family: var(--font-family-main);
-}
 :root {
   --primary-color-dark-cyan-green: #012426;
   --primary-coror-bright-cyan: #05bcca;
